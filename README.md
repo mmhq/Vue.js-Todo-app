@@ -1,4 +1,7 @@
-# vue_todo_app
+# Vue.js Todo app
+
+Simple todo app that saves your items into local storage. 
+Made as a Vue.js learning project.
 
 ## Project setup
 ```
